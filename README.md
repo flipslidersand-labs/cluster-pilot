@@ -1,5 +1,7 @@
 # cluster-pilot
 
+Release type: `service`
+
 Kubernetes Operator for automated DataPipeline cluster lifecycle management and self-healing (Go + Kubebuilder).
 
 DataPipeline クラスターのライフサイクル管理と自己修復を自動化する Kubernetes Operator。
